@@ -1,1 +1,2 @@
-# Work-Study-Standart-Time-Calculation-Et-d-Standart-Zaman-Hesaplama-
+# Work-Study-Standart-Time-Calculation-
+# Is-Etudu-Standart-Zaman-Hesaplama-
